@@ -1467,14 +1467,17 @@ ul.paging li.active a {
 }
 .large-features .feature div.description {
   margin-top: 30px;
+  
 }
 .large-features .feature div.description.special-margin {
   margin-top: 55px;
+  
 }
 @media (max-width: 767px) {
   .large-features .feature div.description {
     margin-top: 55px;
     margin-bottom: 55px;
+    
   }
 }
 .large-features .feature div.image {
@@ -1535,9 +1538,12 @@ ul.paging li.active a {
     margin-bottom: 30px;
   }
 }
+
+
 .team-member .description {
   padding: 5px 20px 10px 20px;
   background-color: #e5e9ec;
+  text-align: center;
 }
 .team-member .social-box .glyphicons,
 .team-member .social-box .social,
